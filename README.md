@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/elasticfence/elasticfence.svg?branch=master)](https://travis-ci.org/elasticfence/elasticfence)
+
 
 ![](http://i.imgur.com/OFFgrm8.png?1)
 
